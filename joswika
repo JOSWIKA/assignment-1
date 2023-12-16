@@ -1,0 +1,6 @@
+#include<stdio.h>
+{
+int i;
+scanf("%d"&i);
+printf("the i is: "i);
+}
